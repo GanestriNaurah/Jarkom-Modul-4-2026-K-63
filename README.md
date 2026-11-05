@@ -1194,3 +1194,11 @@ Hop terakhir yang membalas adalah router terakhir yang bekerja.
 | `Lost = 1` di ping pertama | Wajar (ARP), ulangi sekali |
 | `Request timed out` terus | Jalur putus, cek `show cdp neighbors` dan `show ip route` di router sepanjang jalur |
 | `Destination host unreachable` | Router yang membalas tidak punya route ke tujuan |
+
+### Gambar Pembagian IP
+<img width="3157" height="1795" alt="Lingkaran CIDR - Topologi CPT" src="https://github.com/user-attachments/assets/f0984282-bb1b-42fb-a806-ce694af2a601" />
+
+
+<img width="2880" height="1360" alt="Pohon CIDR" src="https://github.com/user-attachments/assets/a65f8a6d-d2c6-4500-a70a-43e1a014c57c" />
+
+
