@@ -685,6 +685,7 @@ ping google.com
 # CIDR
 
 File project: [K-63-MODUL-4.pkt](https://drive.google.com/drive/folders/1q1XI-MlOwc5L_X5tm2rR5GYvjnwwIpdY?usp=sharing)
+File Spreadsheets: [Modul 4 Komdat Jarkom 2026 - CIDR](https://docs.google.com/spreadsheets/d/1UYUDH3IXkUB-vC12bcKLlPmx_u4Q57m8/edit?usp=sharing&ouid=104908075458859857033&rtpof=true&sd=true)
 
 ## Pembagian IP (hasil CIDR)
 
