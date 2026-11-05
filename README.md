@@ -373,7 +373,7 @@ iface eth1 inet static
     netmask 255.255.252.0
 ```
 
-## KONFIGURASI SELURUH END DEVICE
+## Konfigurasi Seluruh End Device
 
 #### Switch1
 
